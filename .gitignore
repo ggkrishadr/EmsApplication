@@ -1,0 +1,3 @@
+/.env
+/web/migrations/*.py
+!/web/migrations/__init__.py
